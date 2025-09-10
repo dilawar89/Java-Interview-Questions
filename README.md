@@ -21,9 +21,6 @@ Welcome to the **Java Interview Prep Guide**! This document contains categorized
 <details>
 <summary>Click to expand Core Java Questions 🔽</summary>
 
-### ✅ Java 17 Features
-- Record classes, Sealed classes, Text Blocks, Pattern Matching in Switch
-
 ### ✅ String Handling
 - Why are Strings immutable in Java?
 - Difference between `String`, `StringBuffer`, and `StringBuilder`
@@ -98,6 +95,23 @@ Welcome to the **Java Interview Prep Guide**! This document contains categorized
 - Custom Annotations
 - Autoclosable Interface
 
+### ✅ Java 11 Features
+- New Methods in String isBlank(), lines(), strip(), stripLeading(), stripTrailing() and repeat(int count)
+- var in Lambda Parameters
+- New Files Methods --> Files.readString(Path) and Files.writeString(Path, String)
+- Optional.isEmpty()
+- Running Java files without Compilation - java Hello.java
+- HTTP Client 
+
+### ✅ Java 17 Features
+- Record classes, Sealed classes, Text Blocks, Pattern Matching in Switch
+
+### ✅ Java 21 Features
+- Modern concurrency: Virtual Threads, Structured Concurrency, Scoped Values
+- Cleaner code: Pattern Matching, String Templates, Unnamed Variables, Record Patterns
+- Performance & APIs: Generational ZGC, Vector API, KEM API, FFM API
+- Platform changes: Sequenced Collections, emoji support, and deprecations for legacy compatibility
+  
 </details>
 
 ---
